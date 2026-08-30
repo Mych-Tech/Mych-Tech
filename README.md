@@ -2,7 +2,7 @@
 I am Mychaiel, a 2nd Year BSIT Student and a aspiring Software Developer. I love exploring, creating, discovering ideas and innovations in the tech-world.<br>
 
 ## About me
-- 🎓 2nd Year BS Information Technology student in the Philippines. <br>
+- 🎓 3rd Year BS Information Technology student in the Philippines. <br>
 - 💻 Passionate about building useful web and mobile apps.<br>
 - Always willing to learn.<br><br>
 Soon to be a Software Developer!  
